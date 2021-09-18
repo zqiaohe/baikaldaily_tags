@@ -8,4 +8,4 @@ baikal_daily_analiz.ipynb - python notebook for report
 
 ### Report on Data Studio
 
-[https://datastudio.google.com/reporting/47476d69-1a99-4dd0-8045-19146bd5a769/page/pqmCC?s=mce9Hwzn4b4](Dashboard)
+[Dashboard](https://datastudio.google.com/reporting/47476d69-1a99-4dd0-8045-19146bd5a769/page/pqmCC?s=mce9Hwzn4b4)
