@@ -11,6 +11,5 @@ Timelines of top-10 tags
 
 ![Timelines of top-10 tags](https://raw.githubusercontent.com/zqiaohe/smi_tags/main/%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F10.png)
 
-Data Studio dashboard
 
-[1]: https://datastudio.google.com/reporting/47476d69-1a99-4dd0-8045-19146bd5a769/page/pqmCC?s=mce9Hwzn4b4        "Отчет"
+[https://datastudio.google.com/reporting/47476d69-1a99-4dd0-8045-19146bd5a769/page/pqmCC?s=mce9Hwzn4b4](Data Studio dashboard)
