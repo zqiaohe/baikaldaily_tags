@@ -2,6 +2,10 @@
 
 ![Wordcloud](https://raw.githubusercontent.com/zqiaohe/smi_tags/main/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
+bd_get_tags_history.py - code for parsing news
+baikal_daily_analiz.ipynb - python notebook for report
+
+
 ### Timeline of tag about road accident
 
 ![Timeline of tag about road accident](https://github.com/zqiaohe/smi_tags/blob/main/%D0%94%D0%A2%D0%9F.png?raw=true)
